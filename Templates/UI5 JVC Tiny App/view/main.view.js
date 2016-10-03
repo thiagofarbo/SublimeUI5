@@ -17,6 +17,7 @@ sap.ui.jsview("view.main", {
 		return new sap.ui.commons.TextView({
 			text: "Main View",
 		});
+		/*Thiago*/
 	},
 		
 });
